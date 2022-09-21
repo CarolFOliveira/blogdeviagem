@@ -1,0 +1,80 @@
+
+body{
+    background: url(https://www.travelclass.tur.br/uploads/2017/04/Vista-a%C3%A9rea-em-Zermatt-Valley-e-Matterhorn-Peak-at-Dawn-Su%C3%AD%C3%A7a-3-1275x850.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+    background-color: azure;
+}
+.viagem_mainDiv
+{
+    border: 1px solid rgb(88, 231, 250);
+}
+
+
+
+.viagem_mainDiv p
+{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+}
+
+
+.filmesHead
+{
+    background-color: rgb(2, 2, 80);
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filmesHead i
+{
+float: right;
+}
+
+.filmesText span
+{
+color: orange;
+}
+
+
+.livros
+{
+    margin-bottom: 20px;
+    
+    
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+#grid{
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    
+    
+    
+}
+.imgs{
+    width: 90%;
+    padding: 10px;
+    
+
+}
+.contato_1{
+    margin-top: 70px;
+}
+
+.navbar-nav a{
+    
+    font-style: italic;
+    font-size: 18px;
+    
+}
